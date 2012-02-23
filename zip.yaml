@@ -1,0 +1,24 @@
+Name: zip
+Summary: A file compression and packaging utility compatible with PKZIP
+Version: 3.0
+Release: 1
+Group: Applications/Archiving
+License: BSD
+URL: http://www.info-zip.org/Zip.html
+Sources:
+    - zip30.tar.gz
+Patches:
+    - zip-3.0-exec-shield.patch
+    - zip-3.0-currdir.patch
+    - zip-3.0-time.patch
+Description: |
+    The zip program is a compression and file packaging utility.  Zip is
+    analogous to a combination of the UNIX tar and compress commands and
+    is compatible with PKZIP (a compression and file packaging utility for
+    MS-DOS systems).
+    
+    Install the zip package if you need to compress files using the zip
+    program.
+
+Configure: none
+Builder: none
