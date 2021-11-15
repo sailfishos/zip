@@ -1,6 +1,6 @@
 Name:       zip
 Summary:    A file compression and packaging utility compatible with PKZIP
-Version:    3.0
+Version:    3.0+git1
 Release:    1
 License:    BSD
 URL:        http://www.info-zip.org/Zip.html
