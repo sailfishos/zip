@@ -1,3 +1,6 @@
+* Mon Nov 11 2021 Pekka Vuorela <pekka.vuorela@jolla.com> - 3.0+git1
+- Cleanups and license file as %license. JB#55991
+
 * Thu Feb 23 2012 Marko Saukko <marko.saukko@gmail.com> - 3.0
 - Minor packaging fix for spectacle.
 
